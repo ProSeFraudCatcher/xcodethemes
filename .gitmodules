@@ -1,0 +1,3 @@
+[submodule ".github/CyberFraudBountyHunters"]
+	path = .github/CyberFraudBountyHunters
+	url = ssh://git@github.com/gitroomhq/postiz-app007
